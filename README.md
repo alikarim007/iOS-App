@@ -1,2 +1,2 @@
 # iOS-App
-iOS Dice App in Swift 4
+iOS 4App were bulid in Swift 4
